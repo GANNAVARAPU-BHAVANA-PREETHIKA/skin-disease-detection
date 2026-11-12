@@ -1,0 +1,5 @@
+{
+  "name": "DermoAI - Skin Disease Analysis",
+  "description": "A professional tool combining CNN image classification with Gemini AI reasoning to analyze skin lesion images.",
+  "requestFramePermissions": []
+}

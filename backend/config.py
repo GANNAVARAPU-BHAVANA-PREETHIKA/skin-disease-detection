@@ -1,0 +1,3 @@
+CLASS_NAMES = ["bcc", "mel", "nv"]
+IMAGE_SIZE = (224, 224)
+CONFIDENCE_THRESHOLD = 60
